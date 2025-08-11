@@ -160,29 +160,29 @@ Pro Micro(BLE Micro Pro)を基板に取り付ける際は[コンスルー](https
 
 右手側も同様の手順で取り付けます。先述した通り右手側はPro Microの裏表が逆になります。
 
-<img src = ".images/3-8.png" width = "600px" />
+<img src = "./images/3-8.png" width = "600px" />
 
 左右にPro Microを載せると下記のようになります。
 
-<img src = ".images/3-9.png" width = "600px" />
+<img src = "./images/3-9.png" width = "600px" />
 
 ### 4. TRRSソケットの取り付け
 
 左右のキーボードをTRRSケーブルで接続する際のTRRSソケットを取り付けます。
 
-<img src = ".images/4-0.png" width = "600px" />
+<img src = "./images/4-0.png" width = "600px" />
 
 TRRSソケットを基板の表側に載せます。
 
-<img src = ".images/4-1.png" width = "600px" />
+<img src = "./images/4-1.png" width = "600px" />
 
 基板を裏返してTRRSソケットの足が基板裏面から出ていることを確認します。4つの足が出ている状態が正しいです。
 
-<img src = ".images/4-2.png" width = "600px" />
+<img src = "./images/4-2.png" width = "600px" />
 
 基板とTRRSソケットの足をハンダ付けします。
 
-<img src = ".images/4-3.png" width = "600px" />
+<img src = "./images/4-3.png" width = "600px" />
 
 ### 5. 無線化用の部品の取り付け
 
@@ -282,11 +282,17 @@ BLE Micro Proの設定手順は[こちら](https://sekigon-gonnoc.github.io/BLE-
 
 キースイッチを4-5個程度スイッチプレートに挿します。パチンと音がするまでしっかり挿し込みます。
 
+また、右下の2キーはキースイッチの向きが他と上下逆になっているので挿し間違えないよう確認します。
+
 <img src = "./images/6-4.png" width = "600px" />
 
-表側<img src = "./images/6-5.png" width = "600px" />
+表側
 
-裏側<img src = "./images/6-6.png" width = "600px" />
+<img src = "./images/6-5.png" width = "600px" />
+
+裏側
+
+<img src = "./images/6-6.png" width = "600px" />
 
 スイッチプレートを裏向きにして基板を載せて、先ほど挿したキースイッチの足が基板の裏側から出るように挿し込みます。
 基板の裏側から全てのキースイッチの足が出ていることを確認します。
