@@ -131,6 +131,10 @@ MCU(Micro Controller Unit)として、Pro Microを取り付けます。MCUは主
 
 PalmbrainはBLE Micro Proを用いた無線化に対応していますが、動作が正しくない場合のトラブルシューティングの観点から、最初はPro Microによる有線接続で組み立てることを推奨します。
 
+> コンスルーを使ってPro Microを基板に取り付けた状態
+
+<img src = "./images/3-9.png" width = "600px" />
+
 > Pro Micro外観
 
 <img src = "./images/3-0.png" width = "600px" />
